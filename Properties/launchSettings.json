@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "mkpostreview": {
+      "commandName": "Project",
+      "commandLineArgs": "\"HEAD~\" HEAD D:\\review",
+      "workingDirectory": "D:\\Dev\\TestGit"
+    }
+  }
+}
